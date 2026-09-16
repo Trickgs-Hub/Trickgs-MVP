@@ -1,7 +1,8 @@
-# 🎰 Altura - Multi-chain gaming platform 🎮
-<img width="1254" height="1254" alt="ChatGPT Image Aug 26, 2026, 11_49_18 AM" src="https://github.com/user-attachments/assets/40c2c6ea-97a4-4bdc-b234-14f3b7fa42e7" />
+# 🎰 Cyntra - Multi-chain gaming platform 🎮
 
-Altura is a multi-chain gaming platform designed to combine the best of Web3, AI, and blockchain technologies to create a fair, rewarding, and engaging ecosystem for gamers worldwide. Altura integrates AI-driven game mechanics with Play-to-Earn (P2E) systems, NFT avatars, and a decentralized token economy that rewards players for their skills and achievements.
+<img width="2048" height="768" alt="Cyntra" src="https://github.com/user-attachments/assets/066cf883-dba0-4da3-885f-444a68e6888e" />
+
+Cyntra is a multi-chain gaming platform designed to combine the best of Web3, AI, and blockchain technologies to create a fair, rewarding, and engaging ecosystem for gamers worldwide. Altura integrates AI-driven game mechanics with Play-to-Earn (P2E) systems, NFT avatars, and a decentralized token economy that rewards players for their skills and achievements.
 
 **Staking • Sports Betting • Roulette • Lottery • Slot Game**
 A modern crypto-powered gaming platform supporting multi-chain tokens and exciting on-chain games.
